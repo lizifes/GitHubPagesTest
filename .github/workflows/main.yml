@@ -10,6 +10,7 @@ jobs:
         
       - name: 生成静态文件
         run: |
+           ls
            hugo.exe version
            hugo -D
            cd public/
