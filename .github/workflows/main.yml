@@ -10,7 +10,12 @@ jobs:
         
       - name: 生成静态文件
         run: |
-          ls
-          cd GitHubPagesTest/
-          ls
-          pwd
+           hugo.exe version
+           hugo -D
+           cd public/
+
+      - name: 部署到分支
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
+        with:
+          branch: gh-pages 
+          folder: public
