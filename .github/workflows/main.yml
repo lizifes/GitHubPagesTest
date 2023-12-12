@@ -10,6 +10,7 @@ jobs:
         
       - name: 生成静态文件
         run: |
-          cd BreadcrumbsGitHubPagesTest/
+          ls
+          cd GitHubPagesTest/
           ls
           pwd
