@@ -1,0 +1,17 @@
+name: test
+on: workflow_run    # 手动运行
+
+jobs:
+  build-and-test: 
+    runs-on: windows-latest 	# 在什么环境运行任务
+    steps:
+      - name: 生成静态文件
+        run: |
+           hugo -D
+           cd public/
+
+      - name: 部署到分支
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
+        with:
+          branch: gh-pages 
+          folder: public
