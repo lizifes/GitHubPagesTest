@@ -7,6 +7,7 @@ jobs:
     steps:
       - name: 生成静态文件
         run: |
+           hugo.exe version
            hugo -D
            cd public/
 
