@@ -7,5 +7,6 @@ jobs:
     steps:
       - name: 生成静态文件
         run: |
+          cd ..
           ls
           pwd
