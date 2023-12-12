@@ -1,0 +1,128 @@
+<div class="header-big  post-top css-color mb-4" id="search-bg" style="">
+    <div class="s-search">
+        <div id="search" class="s-search mx-auto">
+            <div id="search-list-menu" class="hide-type-list">
+                <div class="s-type text-center">
+                    <div class="s-type-list big">
+                        <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
+                        <label for="type-baidu1"  data-id="group-b"><span>搜索</span></label>
+                        <label for="type-whois"   data-id="group-c"><span>工具</span></label>
+                    </div>
+                </div>
+            </div>
+
+            <form action="https://www.baidu.com?s=" method="get" target="_blank" class="super-search-fm">
+                <input type="text" id="search-text" class="form-control smart-tips search-key" 
+                    zhannei="" placeholder="输入关键字搜索" style="outline:0" autocomplete="off">
+                <button class="submit" type="submit"><i class="iconfont icon-search"></i></button>
+            </form>
+
+            <div id="search-list" class="hide-type-list">
+                <div class="search-group group-b">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-baidu1"
+                                value="https://www.baidu.com/s?wd=" 
+                                data-placeholder="百度一下，你就知道">
+                            <label for="type-baidu1"><span class="text-muted">百度</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-google1"
+                                value="https://www.google.com/search?q=" 
+                                data-placeholder="谷歌搜索">
+                            <label for="type-google1"><span class="text-muted">谷歌</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-360"
+                                value="https://www.so.com/s?q=" 
+                                data-placeholder="360 好搜">
+                            <label for="type-360"><span class="text-muted">360</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-sogo"
+                                value="https://www.sogou.com/web?query=" 
+                                data-placeholder="搜狗搜索"> 
+                            <label for="type-sogo"><span class="text-muted">搜狗</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-bing1"
+                                value="https://cn.bing.com/search?q=" 
+                                data-placeholder="微软 Bing 搜索">
+                            <label for="type-bing1"><span class="text-muted">必应</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-sm"
+                                value="https://yz.m.sm.cn/s?q=" 
+                                data-placeholder="UC 移动端搜索">
+                            <label for="type-sm"><span class="text-muted">神马</span></label>
+                        </li>
+                    </ul>
+                </div>
+                <div class="search-group group-c">
+                    <ul class="search-type">
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-br"
+                                value="https://rank.chinaz.com/all/"
+                                data-placeholder="请输入网址(不带 https://)">
+                            <label for="type-br"><span class="text-muted">权重查询</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-links"
+                                value="https://link.chinaz.com/" 
+                                data-placeholder="请输入网址(不带 https://)">
+                            <label for="type-links"><span class="text-muted">友链检测</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-whois"
+                                value="https://who.is/whois/" 
+                                data-placeholder="请输入网址(不带 https://)">
+                            <label for="type-whois"><span class="text-muted">域名信息查询</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-ping"
+                                value="https://ping.chinaz.com/"
+                                data-placeholder="请输入网址(不带 https://)">
+                            <label for="type-ping"><span class="text-muted">PING 检测</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-404"
+                                value="https://tool.chinaz.com/Links/?DAddress="
+                                data-placeholder="请输入网址(不带https://)">
+                             <label for="type-404"><span class="text-muted">死链检测</span></label>
+                        </li>
+                        <li><input hidden="" type="radio" name="type" 
+                                id="type-ciku"
+                                value="https://www.ciku5.com/s?wd=" 
+                                data-placeholder="请输入关键词">
+                            <label for="type-ciku"><span class="text-muted">关键词挖掘</span></label>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="card search-smart-tips search-hot-text">
+                <ul id="word" style="display: none"></ul>
+            </div>
+        </div>
+    </div>
+    <!--div class="bulletin-big mx-3 mx-md-0">
+        <div id="bulletin_box" class="card my-2">
+            <div class="card-body py-1 px-2 px-md-3 d-flex flex-fill text-xs text-muted">
+                <div><i class="iconfont icon-bulletin" style="line-height:25px"></i></div>
+                <div class="bulletin mx-1 mx-md-2 carousel-vertical">
+                    <div class="carousel slide" data-ride="carousel" data-interval="3000">
+                        <div class="carousel-inner" role="listbox">
+                            <div class="carousel-item active"><a class="overflowClip_1"
+                                    href="#">所长导航 - 用心精选每一个链接</a></div>
+                            <div class="carousel-item "><a class="overflowClip_1"
+                                    href="#">所长导航 - 有范的导航网站</a></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex-fill"></div>
+                <a title="关闭" href="javascript:;" rel="external nofollow" class="bulletin-close"
+                    onclick="$('#bulletin_box').slideUp('slow');"><i class="iconfont icon-close"
+                        style="line-height:25px"></i></a>
+            </div>
+        </div>
+    </div-->
+</div>

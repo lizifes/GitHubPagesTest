@@ -1,0 +1,16 @@
+- item: 首页
+  icon: fa fa-home
+  link: "./"
+
+- item: 博客
+  icon: fas fa-blog
+  link: https://blog.qiufeng.cc
+
+- item: 配置
+  icon: fa fa-cog
+  link: ""
+  list:
+    - name: 源码
+      url: "#"
+    - name: 图标
+      url: "#"

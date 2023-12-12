@@ -1,0 +1,546 @@
+- taxonomy: 常用推荐
+  icon: far fa-star
+  list:
+    - term: 推荐
+      links:
+        - title: 书签地球
+          url: https://www.bookmarkearth.com/
+          logo: https://www.bookmarkearth.com/media/img/logo/favicon.ico
+          description: 中国首家浏览器书签共享搜索引擎平台
+          
+- taxonomy: 效率办公
+  icon: far fa-file-word
+  list:
+    - term: 邮箱
+      links:
+        - title: QQ 邮箱
+          logo: https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_32h.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。
+        - title: Outlook
+          logo: https://api.iowen.cn/favicon/outlook.live.com.png
+          url: https://outlook.live.com/
+          description: Outlook微软邮箱
+        - title: Google邮箱
+          logo: https://api.iowen.cn/favicon/mail.google.com.png
+          url: https://mail.google.com/
+          description: Google邮箱
+        - title: 163邮箱
+          logo: https://mail.163.com/favicon.ico
+          url: https://mail.163.com/
+          description: 网易163邮箱
+        - title: ProtonMail
+          logo: https://api.iowen.cn/favicon/protonmail.com.png
+          url: https://protonmail.com/
+          description: ProtonMail邮箱
+    - term: 代码托管
+      links:
+        - title: GitHub
+          logo: https://api.iowen.cn/favicon/github.com.png
+          url: https://github.com/
+          description: GitHub 开源社区。
+        - title: Gitee
+          logo: https://gitee.com/favicon.ico
+          url: https://gitee.com/
+          description: Gitee中国版开源社区。
+        - title: CODING
+          logo: https://shenweiyan.coding.net/static/favicon.ico
+          url: https://shenweiyan.coding.net/user/projects
+          description: 个人 CODING 代码托管。
+        - title: Cloudflare
+          url: https://dash.cloudflare.com/
+          logo: default.webp
+          description: 代码托管、DNS加速
+        - title: Vercel
+          url: https://vercel.com/
+          logo: 
+          description: Project Settings – Dashboard
+
+    - term: 开发平台
+      links:
+        - title: 公众号平台
+          logo: https://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico
+          url: https://mp.weixin.qq.com/
+          description: 再小的个体也有自己的品牌。
+    - term: 域名
+      links:
+        - title: Domain Manager
+          logo: 
+          url: https://www.namesilo.com/account_domains.php
+          description: Domain Manager    
+        - title: EU.org
+          logo: 
+          url: https://nic.eu.org/
+          description: free domain names since 1996  
+    - term: 网盘资源
+      links:
+        - title: 百度网盘
+          logo: https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico
+          url: http://pan.baidu.com/
+          description: 百度网盘
+        - title: 阿里云盘
+          logo: https://img.alicdn.com/imgextra/i1/O1CN01JDQCi21Dc8EfbRwvF_!!6000000000236-73-tps-64-64.ico
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界。
+        - title: 天翼云盘
+          logo: https://cloud.189.cn/web/logo.ico
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享。
+        - title: 坚果云
+          logo: https://api.iowen.cn/favicon/www.jianguoyun.com.png
+          usrl: https://www.jianguoyun.com/
+          description: 坚果云官网。
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: https://cloudcache.tencent-cloud.com/open_proj/proj_qcloud_v2/gateway/shareicons/cloud.png
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: https://www.huaweicloud.com/favicon.ico
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: 云筏科技
+          logo: https://www.cloudraft.cn/user/assets/favicon.png
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+        - title: 极云普惠云电脑
+          logo: https://api.iowen.cn/favicon/www.ji-cloud.cn.png
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+        - title: 青椒云
+          logo: https://www.qingjiaocloud.com/favicon-32x32.png?v=404496cf6b6685a90408d0ff9af359f5
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。
+    - term: 办公学习
+      links:
+        - title: 百度翻译
+          logo: https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon-32x32.png
+          url: https://fanyi.baidu.com/
+          description: 百度翻译-200种语言互译、沟通全世界！
+        - title: 有道词典
+          logo: https://shared-https.ydstatic.com/images/favicon.ico
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: https://ydlunacommon-cdn.nosdn.127.net/31cf4b56e6c0b3af668aa079de1a898c.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: https://api.iowen.cn/favicon/translate.google.com.hk.png
+          url: https://translate.google.com.hk
+          description: 谷歌翻译。
+
+        
+
+- taxonomy: 影音娱乐
+  icon: fas fa-film fa-lg
+  list:
+    - term: 🎥影音
+      links:
+        - title: 腾讯视频
+          logo: https://api.iowen.cn/favicon/v.qq.com.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: https://api.iowen.cn/favicon/www.youku.com.png
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: https://api.iowen.cn/favicon/www.iqiyi.com.png
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 哔哩哔哩
+          logo: https://api.iowen.cn/favicon/www.bilibili.com.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: 电影天堂（DYGOD）
+          logo: https://api.iowen.cn/favicon/www.dygod.net.png
+          url: https://www.dygod.net/
+          description: 电影天堂（DYGOD），高清电影下载。
+        - title: 追影猫
+          url: https://zhuiyingmao2.com/
+          logo: https://zhuiyingmao2.com/mxtheme/images/favicon.png
+          description: 让追剧随心所欲，随时搜随心看！
+        - title: 茶杯狐Cupfox
+          url: https://cupfox.app/
+          logo: https://picx.zhimg.com/80/v2-39883daf00bf6cc890caf58412dde9ec.jpg
+          description: 努力让找电影变得简单
+        - title: Nike影视网
+          url: https://www.ajeee.com/
+          logo: 
+          description: 香港台湾经典电影影视大全
+        - title: YouTube
+          url: https://www.youtube.com/
+          logo: 
+          description: YouTube
+        - title: QQ 音乐
+          logo: https://y.qq.com/favicon.ico
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: https://s1.music.126.net/style/favicon.ico
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 资源帝电子书导航
+          url: http://shu.ziyuandi.cn/
+          logo: 
+          description: 坚持做全网最好的电子书导航网站
+        - title: 爱看漫画
+          url: https://www.bjzf.org/
+          logo: https://www.bjzf.org/favicon.ico
+          description: 国内原创在线漫画平台_好看的免费漫画大全
+        - title: MyFreeMP3
+          url: http://tool.liumingye.cn/music/?page=searchPage#/
+          logo: https://unpkg.com/@liumingye/cdn2/favicon.ico
+          description: MyFreeMP3音乐下载
+        - title: AGE动漫 - 在线动漫观看
+          url: https://age.tv
+          logo: 
+          description: 在线动漫观看
+
+        
+- taxonomy: 资讯
+  icon: fab fa-forumbee
+  list: 
+    - term: 博客论坛
+      links:
+        - title: NodeSeek
+          url: https://www.nodeseek.com/
+          logo: https://api.iowen.cn/favicon/www.nodeseek.com.png
+          description: NodeSeek论坛。
+        - title: V2EX
+          logo: https://api.iowen.cn/favicon/www.v2ex.com.png
+          url: https://www.v2ex.com/
+          description: V2EX 创意工作者的社区。
+        - title: IT天空
+          url: https://www.itsk.com/
+          logo: #站长头像
+          description: 新的十年，新的天空（已创建17年2个月）
+        - title: 黑域基地 - 
+          url: https://www.hybase.com/
+          logo: #站长头像
+          description: 良心软件的栖息之地
+        - title: 便携吃瓜网
+          url: https://www.portablesoft.org/
+          logo: #站长头像
+          description: 汇集互联网吃瓜热点信息，轻松掌握主播黑料资讯阅读
+        - title: 天下网吧
+          url: https://www.txwb.com/index.html
+          logo: #站长头像
+          description: 中国网吧网咖行业门户-网吧联盟门户
+        - title: rutracker
+          url: https://rutracker.net/forum/index.php
+          logo: #站长头像
+          description: 俄国最大的破解网站
+        - title: ToGameMod
+          url: http://www.togamemod.cn/forum.php
+          logo: #站长头像
+          description: Powered by Discuz!游戏辅助
+        - title: 吾爱破解
+          url: https://www.52pojie.cn/
+          logo: #站长头像
+          description: LCG - LSG|安卓破解|病毒分析|          
+          
+          
+          
+- taxonomy: 实用工具
+  icon: fas fa-tools
+  list: 
+    - term: 工具
+      links:
+        - title: Chrome浏览器插件下载
+          url: https://extfans.com/
+          logo: #站长头像
+          description: chrome谷歌商店插件crx应用推荐与下载-扩展迷
+        - title: 油猴中文网 - 
+          url: https://bbs.tampermonkey.net.cn/
+          logo: #站长头像
+          description: 油猴脚本分享交流
+        - title: 逗比拯救世界--
+          url: http://www.dbbqb.com/
+          logo: #站长头像
+          description: 专业的表情包搜索网站
+        - title: 网页在线数据库
+          url: https://planetscale.com/
+          logo: #站长头像
+          description: 学习数据库专用
+        - title: 便民查询网
+          url: https://www.bmcx.com/
+          logo: #站长头像
+          description: 免费查询工具大全 - 原51240便民查询网
+        - title: TYping Practice
+          url: https://www.keybr.com/
+          logo: #站长头像
+          description: 在线打字练习
+        - title: MSDN原版系统
+          url: https://www.imsdn.cn/
+          logo: #站长头像
+          description: 纯净镜像,MSDN ISO下载 - 我的MSDN
+        - title: HelloWindows.cn
+          url: https://hellowindows.cn/
+          logo: #站长头像
+          description: 精校 完整 极致 Windows系统下载仓储站         
+        - title: TechBench
+          url: https://tb.rg-adguard.net/
+          logo: #站长头像
+          description: TechBench by WZT (v4.1.1)，Windows系统下载          
+        - title: EmojiXD
+          url: https://emojixd.com/
+          logo: #站长头像
+          description: 🤣 Emoji表情大全，颜文字百科 💌         
+        - title: 万彩办公大师官网
+          url: http://www.wofficebox.com/
+          logo: #站长头像
+          description: 免费的办公工具百宝箱OfficeBox,绿色无广告无捆绑
+        - title: Spacing.js
+          url: https://spacingjs.com/
+          logo: #站长头像
+          description: 用于测量网页上元素之间间距的JavaScript实用程序
+        - title: JSON校验格式化
+          url: http://www.bejson.com/
+          logo: #站长头像
+          description: 在线JSON校验格式化工具（Be JSON）
+        - title: yaml转换
+          url: https://www.toyaml.com/
+          logo: #站长头像
+          description: 在线yaml转properties-在线properties转yaml        
+        - title: iconfont
+          url: https://www.iconfont.cn/
+          logo: #站长头像
+          description: 阿里巴巴矢量图标库
+        - title: goqr
+          url: http://goqr.me/
+          logo: https://api.iowen.cn/favicon/goqr.me.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: https://screensizes-production-04411863.s3.us-east-1.amazonaws.com/static/images/favicon.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: Json在线格式化
+          url: https://www.toolscat.com/
+          logo: https://www.toolscat.com/static/common/favicon.ico
+          description: 去除转义字符工具—json去除转义
+        - title: 在线条形码生成器
+          url: http://www.t-x-m.com/
+          logo: http://www.t-x-m.com/images/barcode.ico
+          description: 免费在线条形码生成器
+        - title: 标小智LOGO设计神器
+          url: https://www.logosc.cn/
+          logo: https://www.logosc.cn/img/logo-icons/logosc-new.svg
+          description: 公司logo设计在线制作生成 - 标小智
+        - title: 快科技天梯榜
+          url: https://www.mydrivers.com/
+          logo: 
+          description: CPU/显卡性能排行榜
+        - title: IMG.TG - 免费图床
+          url: https://img.tg/
+          logo: 
+          description: IMG.TG - 免费图床
+    - term: 其他导航
+      links:
+        - title: GeekYes
+          url: https://map.geekyes.com/
+          logo: https://map.geekyes.com/wp-content/uploads/2023/08/logo-64.png
+          description: 科技网站导航 | 专属于你
+- taxonomy: AI科学
+  icon: fas fa-robot
+  list: 
+    - term: AI
+      links:
+        - title: AI工具集导航
+          url: https://ai-bot.cn/
+          logo: #站长头像
+          description: 500+AI工具导航大全，国内外AI工具集合网站
+        - title: Free ChatGPT Site List
+          url: https://cc.ai55.cc/
+          logo: https://cc.ai55.cc/favicon.svg
+          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点
+        - title: Overview
+          url: https://platform.openai.com/
+          logo: https://openaiapi-site.azureedge.net/public-assets/d/efe8bd2c03/favicon.svg
+          description:  OpenAI API
+        - title: ChatGPT
+          url: https://chat.openai.com/
+          logo: https://cdn.oaistatic.com/_next/static/media/apple-touch-icon.59f2e898.png
+          description: ChatGPT原版
+        - title: Free ChatGPT Site List
+          url: https://cc.ai55.cc/
+          logo: https://cc.ai55.cc/favicon.svg
+          description: 这儿为你准备了众多免费好用的ChatGPT镜像站点
+        - title: Pi
+          url: https://pi.ai/talk
+          logo: https://pi.ai/pi-logo.svg?v=2
+          description: your personal AI
+        - title: Claude
+          url: https://claude.ai/
+          logo: 
+          description: Claude
+        - title: Monica
+          url: https://monica.im/
+          logo: https://monica.im/logo.png
+          description: Your ChatGPT AI Assistant Chrome Extension
+        - title: Poe
+          url: https://poe.com/
+          logo: https://psc2.cf2.poecdn.net/favicon.svg
+          description: 快捷实用的AI聊天
+        - title: character.ai
+          url: https://beta.character.ai/
+          logo: https://characterai.io/static/favicon_v2.ico
+          description: character.ai
+        - title: 讯飞星火认知大模型
+          url: https://xinghuo.xfyun.cn/
+          logo: https://xinghuo.xfyun.cn/spark-icon.ico
+          description: AI大语言模型-星火大模型-科大讯飞
+        - title: LinkAI
+          url: https://chat.link-ai.tech/home
+          logo: https://link-ai.tech/favicon.ico
+          description: wechat接入 企业微信接入 公众号接入 ChatGPT4.0
+        - title: 
+          url: 
+          logo: 
+          description: 
+
+- taxonomy: 学习
+  icon: fas fa-graduation-cap
+  list: 
+    - term: 📚资料库
+      links:
+        - title: 编程学习_IT网站
+          url: http://www.bcnav.cn/
+          logo: #站长头像
+          description: 一站式编程资源搜索 - 程序员资源网址导航
+        - title: 图欧学习资源库
+          url: https://tuostudy.com/
+          logo: #站长头像
+          description: 图欧学习资源库
+        - title: 菜鸟教程
+          url: https://www.runoob.com/
+          logo: #站长头像
+          description: 学的不仅是技术，更是梦想！
+        - title: W3school
+          url: https://www.w3school.com.cn/
+          logo: #站长头像
+          description: w3school 在线教程
+        - title: 鱼C工作室
+          url: https://fishc.com.cn/
+          logo: #站长头像
+          description: 免费编程视频教学 - Powered by Discuz!
+        - title: Road To Coding
+          url: https://www.r2coding.com/
+          logo: #站长头像
+          description: 编程自学之路，是自学编程以来所用资源和分享内容的大聚合
+        - title: 元动力
+          url: https://www.ydlclass.com/ui/login
+          logo: #站长头像
+          description: 心中有光，就有动力
+        - title: JeeWeiXin.com
+          url: http://jeeweixin.com/
+          logo: #站长头像
+          description: 专注Java编程实战，微信开发
+        - title: YouZack
+          url: https://www.youzack.com/
+          logo: #站长头像
+          description: 英语听力精听、背单词
+        - title: 程序员盒子
+          url: https://www.coderutil.com/
+          logo: #站长头像
+          description: 最适合初学者的免费编程工具+资源社区
+        - title: Java 全栈知识体系
+          url: https://www.pdai.tech/
+          logo: #站长头像
+          description:  Java 全栈知识体系
+        - title: Mirai | mirai
+          url: https://docs.mirai.mamoe.net/
+          logo: #站长头像
+          description:  免费开源的QQ机器人框架
+        - title: EasyExcel官方文档
+          url: https://easyexcel.opensource.alibaba.com/
+          logo: 
+          description: 基于Java的Excel处理工具 | Easy Excel
+        - title: MyBatis-Plus
+          url: https://baomidou.com/
+          logo: 
+          description: MyBatis-Plus
+        - title: 🎉 Docker
+          url: https://docker.easydoc.net/doc/81170005/cCewZWoN/lTKfePfP
+          logo: 
+          description: 简介和安装 - Docker 快速入门 - 易文档
+        - title: 
+          url: 
+          logo: 
+          description: 
+
+- taxonomy: 科学上网
+  icon: fas fa-swimming-pool
+  list: 
+    - term: 节点
+      links:
+        - title: Wenode
+          url: https://wenode.cc/
+          logo: https://wenode.cc/wp-content/cache/thumbnails/2023/01/cropped-2023011607525919-32x32.jpg
+          description: SSR/V2ray/Clash免费节点每天更新
+        - title: hiClash
+          url: https://hiclash.com
+          logo: https://hiclash.com/wp-content/uploads/2022/12/favicon.png
+          description: SSR/V2ray/Clash免费节点每天更新
+        - title: 火龙蛋博客
+          url: https://www.crazygeeky.com/
+          logo: https://www.crazygeeky.com/wp-content/uploads/2023/10/favicon-2.ico
+          description: 免费科学上网节点分享
+        - title: VPS GO
+          url: https://www.vpsgo.com/
+          logo: https://www.vpsgo.com/wp-content/uploads/2019/01/vpsgo.png
+          description: 便宜VPS，VPS推荐，美国主机，香港服务器，VPS教程
+        - title: VPN排行及推荐
+          url: https://5best1s.com/
+          logo: https://5best1s.com/wp-content/uploads/2021/01/5bestones-logo_noword.png
+          description: VPN排行及推荐
+        - title: AWS在线Ping测速工具
+          url: https://cloud.feitsui.com/aws
+          logo: 
+          description: AWS在线Ping测速工具
+        - title: 机场推荐与机场评测
+          url: https://www.jichangtuijian.com/
+          logo: https://www.jichangtuijian.com/img/favicon.webp
+          description: 机场推荐与机场评测
+        - title: 我爱导航💖
+          url: https://52nav.github.io
+          logo: https://52nav.github.io/favicon.ico
+          description: 机场导航,最专业的VPS、VDS推荐
+        - title: 翻翻墙导航
+          url: https://www.ffq.la
+          logo: https://www.ffq.la/wp-content/uploads/2021/11/F_2.png
+          description: 优质机场导航、优质VPS VDS导航
+        - title: V2RaySSR综合网
+          url: https://v2rayssr.com/
+          logo: https://www.v2rayssr.com/favicon.ico
+          description: V2Ray、SSR、Xray、Trojan 门户网
+        - title: Apple id免费共享平台 
+          url: https://free.iosapp.icu/
+          logo: 
+          description: Apple id免费共享平台 - Shadowrocket共享账号教程 
+
+
+# - taxonomy: 大分类
+  # icon: fas fa-pencil-alt fa-lg
+  # list: 
+    # - term: 小分类
+      # links:
+        # - title: 网站名
+          # url: 网址URL
+          # logo: 头像
+          # description: 文字描述
+        # - title: 网站名
+          # logo: 头像
+          # url: 网址URL
+          # qrcode: 图片描述
+              
+              
+              
+# https://fontawesome.com/v5/search?o=r&m=free 图标库
+# https://github.com/shenweiyan/Knowledge-Garden/discussions/10  教程
