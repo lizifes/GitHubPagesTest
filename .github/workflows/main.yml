@@ -5,8 +5,11 @@ jobs:
   build-and-test: 
     runs-on: windows-latest 	# 在什么环境运行任务
     steps:
+      - name: 连接分支
+        uses: actions/checkout@v2.3.1
+        
       - name: 生成静态文件
         run: |
-          cd ..
+          cd BreadcrumbsGitHubPagesTest/
           ls
           pwd
